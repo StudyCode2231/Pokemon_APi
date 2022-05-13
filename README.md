@@ -6,9 +6,8 @@
    <h2>https://pokeapi.co/api/v2/</h2>
     <h2>create-react-app</h2>
     <h2>Demo Video</h3>
-    <div style="position:relative;width:fit-content;height:fit-content;">
-            <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/AKeWkl7qfbf?utm_source=embed&utm_medium=embed&utm_campaign=watch">
-                <img style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
-            </a>
-            <iframe allowfullscreen style="border:none" src="https://clipchamp.com/watch/AKeWkl7qfbf/embed" width="640" height="360"></iframe>
-        </div>
+   
+
+
+https://user-images.githubusercontent.com/76102425/168288204-f4177f71-429c-4dae-b6a7-7a3f5a26dfbc.mp4
+
