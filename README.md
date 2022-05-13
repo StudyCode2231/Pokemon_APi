@@ -3,11 +3,11 @@
 <h3>A simple React project that makes use of PokeAPI. Built with React </h2>
   
 <h3> Tools used:</h3>
-   <h4>https://pokeapi.co/api/v2/</h4>
-    <h4>create-react-app</h4>
+     <h4>https://pokeapi.co/api/v2/</h4>
+       <h4>create-react-app</h4>
 
 
-<h2>Demo Video</h2>
+<h1>Demo Video</h1>
    
 
 
