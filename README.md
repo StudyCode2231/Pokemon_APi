@@ -1,5 +1,5 @@
 <h1> Pokemon_APi </h1>
-![image](https://user-images.githubusercontent.com/76102425/168288947-f607b432-1b7f-469f-8b73-d956a4b24518.png)
+<img src="https://user-images.githubusercontent.com/76102425/168288947-f607b432-1b7f-469f-8b73-d956a4b24518.png"></img>
 
 <h2>Goal of this project:</h2>
 <h3>A simple React project that makes use of PokeAPI. Built with React </h2>
