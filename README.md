@@ -1,4 +1,4 @@
-<h1> Pokemon_APi </h1>
+<h1>Pokemon Search App</h1>
 <img src="https://user-images.githubusercontent.com/76102425/168288947-f607b432-1b7f-469f-8b73-d956a4b24518.png" style="width:100px;heigth:200px;"></img>
 
 <h2>Goal of this project:</h2>
