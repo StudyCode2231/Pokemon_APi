@@ -14,9 +14,7 @@
 
 <h1>Demo Video</h1>
 
-<video width="320" height="240" controls>
-  <source src="https://user-images.githubusercontent.com/76102425/168412249-37d8592f-61df-405d-ac29-712930785789.mp4" >
-</video>
+<video  src="https://user-images.githubusercontent.com/76102425/168412249-37d8592f-61df-405d-ac29-712930785789.mp4" />
 
 
 
