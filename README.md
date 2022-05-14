@@ -2,8 +2,10 @@
 <img src="https://user-images.githubusercontent.com/76102425/168288947-f607b432-1b7f-469f-8b73-d956a4b24518.png" style="width:100px;heigth:200px;"></img>
 
 <h2>GOAL of this project:</h2>
-<h3>This is a React.js project made at AltCampus. The data for the Pokedex app is taken from the Pokedex API.
-Features Search any Pokemon by their name. Available Scripts In the project directory, you can run: </h3>
+<h3>This is a React.js project .
+  -The data for the Pokedex app is taken from the Pokedex API.
+-Features Search any Pokemon by their name. 
+  Available Scripts In the project directory, you can run:</h3>
   
 <h2>TOOLS⚙️</h2>
      <h3> -https://pokeapi.co/api/v2/</h3>
