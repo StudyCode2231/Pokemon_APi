@@ -9,7 +9,7 @@
        <h4>create-react-app</h4>
 
 <h2>Some Code</h2>
-<img src="https://user-images.githubusercontent.com/76102425/168412034-b66bea15-7e7c-4460-8d04-cd378f9fcbc9.png" style="width:1000px;height:500px;">
+<img src="https://user-images.githubusercontent.com/76102425/168412034-b66bea15-7e7c-4460-8d04-cd378f9fcbc9.png" style="width:900px;height:500px;">
 
 
 <h1>Demo Video</h1>
