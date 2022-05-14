@@ -12,7 +12,7 @@
 <img src="https://user-images.githubusercontent.com/76102425/168412034-b66bea15-7e7c-4460-8d04-cd378f9fcbc9.png" style="width:900px;height:500px;">
 
 
-<h2>Demo Video 📹</h2>
+<h2>DEMO VIDEO 📹</h2>
 <video  src="https://user-images.githubusercontent.com/76102425/168412249-37d8592f-61df-405d-ac29-712930785789.mp4" style="width:100px;heigth:120px;" />
 
 
