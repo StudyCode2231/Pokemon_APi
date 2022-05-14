@@ -9,11 +9,11 @@
        <h4>create-react-app</h4>
 
 <h2>Some Code</h2>
-<img src="https://user-images.githubusercontent.com/76102425/168412034-b66bea15-7e7c-4460-8d04-cd378f9fcbc9.png" style="width:100px,height:120px">
+<img src="https://user-images.githubusercontent.com/76102425/168412034-b66bea15-7e7c-4460-8d04-cd378f9fcbc9.png" style="width:100px;height:120px;">
 
 
 <h1>Demo Video</h1>
-<video  src="https://user-images.githubusercontent.com/76102425/168412249-37d8592f-61df-405d-ac29-712930785789.mp4" style="width:100px,heigth:120px" />
+<video  src="https://user-images.githubusercontent.com/76102425/168412249-37d8592f-61df-405d-ac29-712930785789.mp4" style="width:100px;heigth:120px;" />
 
 
 
