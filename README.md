@@ -13,8 +13,7 @@
 
 
 <h1>Demo Video</h1>
-
-<video  src="https://user-images.githubusercontent.com/76102425/168412249-37d8592f-61df-405d-ac29-712930785789.mp4" />
+<video  src="https://user-images.githubusercontent.com/76102425/168412249-37d8592f-61df-405d-ac29-712930785789.mp4" style="width:100px,heigth:120px" />
 
 
 
