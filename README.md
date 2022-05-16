@@ -9,7 +9,7 @@
   
 <h2>TOOLS⚙️</h2>
      <h3> -https://pokeapi.co/api/v2/</h3>
-     https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg
+  <img src="   https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg">
        <h3>-create-react-app</h3>
 
 <h2> CODE👨‍</h2>
