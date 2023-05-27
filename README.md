@@ -1,5 +1,5 @@
 <h1>POKEMON SEARCH APP 👋</h1>
-<img src="https://user-images.githubusercontent.com/76102425/168288947-f607b432-1b7f-469f-8b73-d956a4b24518.png" style="width:100px;heigth:200px;"></img>
+<img src="https://w7.pngwing.com/pngs/585/436/png-transparent-pokemon-pikachu-illustration-icon-pikachu-background-mammal-food-vertebrate.png" style="width:100px;heigth:200px;"></img>
 
 <h2>GOAL of this project:</h2>
 <h3>This is a React.js project .
