@@ -12,7 +12,7 @@
   <img src="   https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg">
        <h3>-create-react-app</h3>
 
-<h2> CODE👨‍</h2>
+<h2> SOME SOURCE CODE👨‍</h2>
 <img src="https://user-images.githubusercontent.com/76102425/168412034-b66bea15-7e7c-4460-8d04-cd378f9fcbc9.png" style="width:800px;height:550px;">
 
 
